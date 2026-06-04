@@ -11,8 +11,12 @@ A fun interactive HTML page that reveals Ahmed's exam results through playful UI
 
 ## 📁 Files
 
-- `index.html` — the full interactive page with CSS, HTML, and JavaScript all in one file.
+- `index.html` — the  HTML code.
+- `style.css` — the  css code.
+- `script.js` — the  js code.
+
 - `images.jfif` — the placeholder frame image shown in the puzzle drop area.
+
 
 ## 🎮 How to use
 
